@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/001_create_projects.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/002_create_notes.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/003_create_photos.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/004_create_tags.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/005_create_project_notes_relation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/006_create_project_photos_relation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/007_create_project_tags_relation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/008_create_note_photos_relation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/009_create_note_tags_relation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/db/migrations/010_create_photo_tags_relation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/src/backend/notes/service.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/src/backend/photos/service.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/src/backend/projects/service.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/src/backend/tags/service.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/tests/conftest.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/tests/helpers/note.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/tests/helpers/photo.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/tests/helpers/project.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/tests/helpers/tag.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/tests/test_tag.py" dialect="PostgreSQL" />
+  </component>
+</project>
